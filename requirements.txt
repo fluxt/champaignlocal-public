@@ -1,0 +1,9 @@
+flask
+PyMySQL
+authlib
+python-dotenv
+flask_pymongo
+pymongo
+bson
+flask_cors
+dnspython
